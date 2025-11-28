@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🌎 Desmatamento Atual: Causas, Impactos e Soluções</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+<body>
+    <header>
+        <h1>Desmatamento Atual: Uma Ameaça Global 🌳❌</h1>
+        <p>Entenda os dados, os impactos e as ações necessárias para combater a destruição das florestas.</p>
+    </header>
+
+    <main>
+        <section id="dados-atuais" class="info-section">
+            <h2>📊 Dados e Estatísticas Atuais (Foco no Brasil)</h2>
+            <p>O desmatamento continua sendo uma emergência climática e de biodiversidade. Globalmente, o progresso para eliminar o desmatamento até 2030 está **21% abaixo do esperado**.</p>
+            
+            <div class="card-container">
+                <div class="card">
+                    <h3>Amazônia e Cerrado</h3>
+                    <p>Em 2022, o desmatamento nos biomas do Brasil cresceu **22,3%**.</p>
+                    <p>Apesar de quedas recentes na Amazônia, o **Cerrado** tem apresentado taxas alarmantes, chegando a ultrapassar a Amazônia em número de alertas em 2023, com um aumento de **21%** nas taxas de desmate.</p>
+                </div>
+                <div class="card">
+                    <h3>Área Destruída</h3>
+                    <p>Somente em 2022, o Brasil perdeu cerca de **1,5 milhão de hectares** de bioma nativo. Estados como Pará e Amazonas lideram o ranking de área desmatada.</p>
+                    <p>Globalmente, 1,2 milhão de hectares de florestas foram perdidos em áreas de biodiversidade em 2022.</p>
+                </div>
+            </div>
+            
+        </section>
+
+        <section id="consequencias" class="info-section">
+            <h2>🔥 Consequências Críticas do Desmate</h2>
+            <p>A remoção da vegetação nativa desencadeia uma série de impactos ambientais e sociais devastadores:</p>
+            <ul>
+                <li>⚠️ **Mudanças Climáticas:** O desmatamento é a maior fonte de emissão de gases de efeito estufa no Brasil, contribuindo para o **aquecimento global** e a intensificação de desastres naturais.</li>
+                <li>💧 **Ciclo Hídrico:** Afeta o regime de chuvas, podendo causar **estiagens** em regiões distantes (como no Sul e Sudeste do Brasil) e escassez hídrica.</li>
+                <li>🦁 **Perda de Biodiversidade:** Leva à destruição de habitats, colocando inúmeras espécies da fauna e flora (como na Mata Atlântica) em **ameaça de extinção**.</li>
+                <li>⛰️ **Erosão e Solo:** Causa a erosão, perda da fertilidade do solo e pode levar à **desertificação**.</li>
+                <li>🦠 **Doenças:** A alteração do uso do solo e o contato com novas espécies está ligada ao aparecimento de **doenças zoonóticas** emergentes (como Zika e Ebola).</li>
+            </ul>
+        </section>
+
+        <section id="solucoes" class="info-section">
+            <h2>✅ Soluções e Caminhos para o Combate</h2>
+            <p>Frear o desmatamento exige um esforço conjunto de governos, empresas e sociedade:</p>
+            
+            <div class="card-container">
+                <div class="card solution-card">
+                    <h3>Fiscalização e Leis</h3>
+                    <p>Implementar e fortalecer **políticas de fiscalização** e controle ambiental, com o endurecimento de penas para crimes ambientais. Retomada de planos de combate ao desmatamento (ex: PPCDAm).</p>
+                </div>
+                <div class="card solution-card">
+                    <h3>Economia Sustentável</h3>
+                    <p>Fomentar atividades produtivas sustentáveis, como a **Intensificação da Atividade Agrícola** em áreas já abertas (evitando desmatar novas áreas), e a **rastreabilidade** de produtos (ex: carne e soja) de procedência legal.</p>
+                </div>
+                <div class="card solution-card">
+                    <h3>Restauração e Proteção</h3>
+                    <p>Investir em **Reflorestamento** de áreas degradadas e garantir a **demarcação e proteção** de Terras Indígenas e Unidades de Conservação, que são essenciais para a manutenção da floresta.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Fonte dos dados: MapBiomas, Imazon, Nature Climate Change, Governos. **A luta contra o desmatamento é urgente.**</p>
+    </footer>
+</body>
+</html>
